@@ -1,2 +1,0 @@
-# lmr
- ic knowledge
